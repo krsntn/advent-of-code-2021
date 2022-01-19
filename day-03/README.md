@@ -1,4 +1,4 @@
-# Day 2 - Binary Diagnostic
+# Day 3 - Binary Diagnostic
 
 ## References
 

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const filename = 'src/day-03/input.txt';
+const filename = 'day-03/input.txt';
 const inputList = fs.readFileSync(filename, 'utf8').split('\n');
 
 let arr = [];

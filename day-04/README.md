@@ -1,4 +1,4 @@
-# Day 2 - Giant Squid
+# Day 4 - Giant Squid
 
 ## References
 

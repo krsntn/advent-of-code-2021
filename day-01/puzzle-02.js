@@ -1,5 +1,5 @@
 const fs = require('fs');
-const filename = 'src/day-01/input.txt';
+const filename = 'day-01/input.txt';
 const inputList = fs
   .readFileSync(filename, 'utf8')
   .split('\n')

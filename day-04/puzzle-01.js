@@ -1,5 +1,5 @@
 const fs = require('fs');
-const filename = 'src/day-04/input.txt';
+const filename = 'day-04/input.txt';
 const inputList = fs.readFileSync(filename, 'utf8').split('\n');
 
 const [draw, ...lines] = inputList;
