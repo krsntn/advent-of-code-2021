@@ -8,11 +8,7 @@ const min = Math.min(...crabs);
 const max = Math.max(...crabs);
 
 function calc(num) {
-  let output = 0;
-  while (num > 0) {
-    output += num--;
-  }
-  return output;
+  return (num * (num + 1)) / 2;
 }
 
 const count = {};
