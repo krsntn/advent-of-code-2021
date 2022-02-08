@@ -1,5 +1,5 @@
 const fs = require("fs");
-const filename = "day-16/input.txt";
+const filename = "day-17/input.txt";
 const inputList = fs
   .readFileSync(filename, "utf8")
   .replace(/[^0-9. -]/g, "")
